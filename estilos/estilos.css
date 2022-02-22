@@ -1,0 +1,36 @@
+body {
+  background-color: #f0db4f;
+}
+
+.header {
+  display: flex;
+}
+
+.imagenJS {
+  margin-left: 150px;
+}
+
+.nombre {
+  margin-top: 160px;
+  margin-left: 50px;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: "Roboto Serif", sans-serif;
+}
+
+.titulo {
+  margin-top: 170px;
+  margin-left: 50px;
+  font-size: 30px;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Roboto Serif", sans-serif;
+}
+
+.section {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Roboto Serif", sans-serif;
+  text-align-last: center;
+}
